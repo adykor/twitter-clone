@@ -2,7 +2,7 @@
 A sample web page of Twitter Clone Let's make simple Twitter. Users can post tweets and see everyone's them. To make the project simple, we do not have a sign/login function. So there are not user accounts and follow function. You can challenge after you finish the course.
 Check out [LIVE DEMO here!!]( https://twitter-clone-kyerstin.herokuapp.com/ )
 # Screenshot
- ![Django Forum](https://user-images.githubusercontent.com/80643320/151738192-a67fe281-72e1-43ab-88ff-247a758114e4.png)
+ ![Django Forum (1)](https://user-images.githubusercontent.com/80643320/157335525-7acc65ea-5921-4475-9282-4da7054b7138.png)
 
 # Technologies Used
 * HTML
@@ -13,6 +13,6 @@ Check out [LIVE DEMO here!!]( https://twitter-clone-kyerstin.herokuapp.com/ )
 * Cloudinary(To host uploaded images on CDN)
 # User Story
 * User can post tweets.
-* Users canedit tweets.
+* Users can edit tweets.
 * Users can delete tweets.
-* Users can send a like to a tweet
+* Users can send a like to a tweet.
