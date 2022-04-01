@@ -1,4 +1,4 @@
-# Twitter-clone
+# Twitter Clone
 A sample web page of Twitter Clone where users can post Tweets. To make the project simple, it does not include "follow" functionality or user accounts/login capability.
 Check out [LIVE DEMO here!]( https://twitter-clone-kyerstin.herokuapp.com/ )
 
